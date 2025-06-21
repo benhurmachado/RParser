@@ -1,0 +1,3 @@
+x <- 5
+print("Olá mundo")
+if (x > 3) { cat("Maior que 3") }
