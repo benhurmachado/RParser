@@ -12,7 +12,7 @@ Referências:
 ### Clonar o projeto
     
     git clone https://github.com/benhurmachado/RParser.git
-    cd projeto_r_analisador
+    cd RParser
 
 ### Instalar dependencias
     
