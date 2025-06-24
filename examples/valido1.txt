@@ -1,3 +1,23 @@
+//Exemplos válidos:
+
 x <- 5
+
 print("Olá mundo")
+
 if (x > 3) { cat("Maior que 3") }
+
+if (x < 5) { cat ("Menor que 5") } else { cat ("Maior que 5")}
+
+x <- y + 5
+
+for (i in c(1, 2, 3)) {    print(i)}
+
+y <- 121.111
+
+if (x > y && z <= 10) { print("true") } else { cat("false") }
+
+if (x == 5) { print ("Alguma coisa")} 
+
+x <- "completa"
+
+z <- c("a", "b", "c")

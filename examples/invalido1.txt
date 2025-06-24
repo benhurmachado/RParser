@@ -1,3 +1,21 @@
+//Exemplos invlidos:
+
 <- x 5
+
 print(123
+
 if x > 3 {cat("Oi")}
+
+if (x << 5) { cat ("Menor que 5") } else { cat "Maior que 5")}
+
+if (x > y & z <= 10) { print(trur") } else { cat("false") }  
+
+for (i i c(1, 2, 3))     print(i)}
+
+x == 5
+
+if (x > y) print("teste")
+
+x <- "incompleta
+
+z <- ("a", "b", "c") 

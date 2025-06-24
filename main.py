@@ -8,7 +8,7 @@ if __name__ == '__main__':
     
     while True:
         try:
-            text = input('(calc) >> ')
+            text = input('(RParser) >> ')
         except EOFError:
             break
         if text:
